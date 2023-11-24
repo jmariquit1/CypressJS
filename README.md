@@ -28,9 +28,9 @@
 ## Approach
 
 - Page Object Model (POM)
-  The project follows the Page Object Model to organize test code into reusable and maintainable components. Page objects representing different pages of the application are stored in the `./cypress/support/pages` directory. This helps in enhancing code readability, reducing redundancy, and simplifying maintenance.
+  - The project follows the Page Object Model to organize test code into reusable and maintainable components. Page objects representing different pages of the application are stored in the `./cypress/support/pages` directory. This helps in enhancing code readability, reducing redundancy, and simplifying maintenance.
 - Custom Commands
-  To handle repetitive login and registration tasks, custom Cypress commands have been created. These commands are stored in the `./cypress/support/commands` directory. For example, the login command abstracts the login process, making test scripts more concise and promoting code reusability.
+  - To handle repetitive login and registration tasks, custom Cypress commands have been created. These commands are stored in the `./cypress/support/commands` directory. For example, the login command abstracts the login process, making test scripts more concise and promoting code reusability.
 
 ## Assumptions
 
