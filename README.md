@@ -15,8 +15,8 @@
 
 ## Test Execution
 
-- Run `npm run cypress:open` or `npx cypress open` to open the cypress test runner
-- Run `npm run cypress:run` or `npx cypress run` to run the code in headless browser
+- Run `npm run cy:open` to open the cypress test runner
+- Run `npm run cy:run` to run the code in headless browser
 
 - Use `npm run login` to run login only
 - Use `npm run registration` to run registration only
