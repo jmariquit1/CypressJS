@@ -2,7 +2,7 @@
 
 ## Setup Steps
 
-- Clone the project
+- Clone the project `git@github.com:jmariquit1/CypressJS.git`
 - Run `npm i` to install all the dependencies
 
 ## Usage
